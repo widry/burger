@@ -1,0 +1,54 @@
+*{
+    margin: opx;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 90vh;
+}
+.contenaire{
+    background-image: url(./img/background.png);
+    height: 100vh;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px 30px;
+}
+.logo{
+    height: 40px;
+    width: 200px;
+    margin: 2px;
+}
+.room{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+/*debut de notre page*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
